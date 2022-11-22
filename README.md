@@ -1,4 +1,4 @@
-### Hi there, I am Sergey Votyakov 👋
+### Hi there, I am Sergey Votyakov 
 #### I am looking for a job opportunity or internship to apply my skills and to reach the highest levels
 #### ⚡ I am ready to join an interesting project in my specialization on a non-paying basis
 <!--
@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...👋
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
