@@ -1,5 +1,6 @@
 ### Hi there, I am Sergey Votyakov 👋
-
+#### I am looking for a job opportunity or internship to apply my skills and to reach the highest levels
+#### ⚡ I am ready to join an interesting project in my specialization on a non-paying basis
 <!--
 **svotyakov/svotyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Connect with me:
+### Contact with me:
 [<img align="left" alt="svotyakov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -25,3 +26,6 @@ Here are some ideas to get you started:
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=svotyakov&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svotyakov&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[linkedin]: https://www.linkedin.com/in/sergey-votyakov/
