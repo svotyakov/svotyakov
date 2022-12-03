@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Contact with me:
 [<img align="left" alt="svotyakov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="svotyakov | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />][whatsapp]
 
 
 <br />
@@ -28,3 +29,4 @@ Here are some ideas to get you started:
 
 
 [linkedin]: https://www.linkedin.com/in/sergey-votyakov/
+[whatsapp]: https://api.whatsapp.com/send?phone=55+34&text=643443771
