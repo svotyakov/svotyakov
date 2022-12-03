@@ -1,6 +1,5 @@
 ### Hi there, I am Sergey Votyakov 
 #### I am looking for a job opportunity or internship to apply my skills and to reach the highest levels
-#### ⚡ I am ready to join an interesting project in my specialization on a non-paying basis
 <!--
 **svotyakov/svotyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
