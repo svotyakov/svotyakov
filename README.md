@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 # My best projects
 
-#### [Предобработка данных, WebScraping](https://github.com/svotyakov/Yandex.Practium/tree/main/WebScraping_DataPreprocessing)
-| Название проекта| Описание | Используемые библиотеки | 
+#### [WebScraping, DataPreprocessing](https://github.com/svotyakov/WebScraping_DataPreprocessing)
+| Project name| Description| Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Создание новых признаков](https://github.com/svotyakov/Yandex.Practium/blob/main/WebScraping_DataPreprocessing/creating_new_features/Data_analysis_creating_new_features.ipynb) |Суть задачи в том, что на текущем датасете качество обучения модели очень низкое и надо что-то сделать, чтобы выяснить закономерности в данных| *pandas, numpy, matplotlib, seaborn, sklearn(StandardScaler, MDS, DecisionTreeClassifier, PolynomialFeatures, GridSearchCV), itertools, CatBoostClassifier, tqdm* |
+| [Data analysis, creating new features](https://github.com/svotyakov/WebScraping_DataPreprocessing/blob/main/creating_new_features/Data_analysis_creating_new_features.ipynb) |There is nothing complicated in this task at first glance. You train any machine learning model......and get ROC-AUC metric around 0.5. And you know that Roc-auc must be around 0.9 or even more.| *pandas, numpy, matplotlib, seaborn, sklearn(StandardScaler, MDS, DecisionTreeClassifier, PolynomialFeatures, GridSearchCV), itertools, CatBoostClassifier, tqdm* |
 | | | |
 | [Анализ, создание и трансформация признаков (Телеком)](https://github.com/svotyakov/Yandex.Practium/blob/main/WebScraping_DataPreprocessing/telecom_analysis/rus/Telecom_classification.ipynb) |В работе рассматриваются различные методы трансформации данных для дальнейшего использования в модели машинного обучения, бинарная классификация| *pandas, numpy, matplotlib, seaborn, sklearn(GridSearchCV, TfidfVectorizer), itertools, CatBoostClassifier, lightgbm, tqdm* |
 
