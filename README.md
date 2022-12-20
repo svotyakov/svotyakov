@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### Contact with me:
 [<img align="left" alt="svotyakov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="svotyakov | WhatsApp" width="22px" src="https://www.svgrepo.com/show/28155/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="svotyakov | E-mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][e-mail]
 
 
 <br />
@@ -40,3 +41,4 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/sergey-votyakov/
 [whatsapp]: https://wa.me/+34643443771
+[e-mail]: s.votyakov@gmail.com
